@@ -9,7 +9,7 @@ const progress = document.getElementById('progress');
 const title = document.getElementById('title');
 const cover = document.getElementById('cover');
 
-const songs = ["Rasulullohni sog'inganda",'Assalomu alayka','ok'];
+const songs = ["Rasulullohni sog'inganda","Assalomu alayka","ok"];
 
 let songIndex = 0;
 
